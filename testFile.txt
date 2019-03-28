@@ -3,3 +3,4 @@ x
 
 I'm some awesome feature
 
+i'm a new feature.
